@@ -487,7 +487,7 @@ def view_on_map():
             'status': complaint.get('status', '')
         })
     
-    return render_template('view_on_map.html', complaints=json.dumps(map_complaints))
+    return render_template('view_on_map.html', complaints=map_complaints)
 
 
 @app.route('/admin/resolved')
