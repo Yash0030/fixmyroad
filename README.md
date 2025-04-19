@@ -83,7 +83,6 @@ FixMyRoad is an intelligent pothole detection and reporting system that uses mac
 - Authorized access controls for admin features
 
 ## 📁 Project Structure
-
 fixmyroad/
 ├── app.py                       # Main application file
 ├── requirements.txt             # Dependencies
