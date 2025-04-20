@@ -35,7 +35,7 @@ FixMyRoad is an intelligent pothole detection and reporting system that uses mac
 - Python 3.8+
 - MongoDB Atlas account
 - Roboflow API key
-
+```
 ### Installation
 
 1. Clone the repository:
@@ -61,6 +61,7 @@ FixMyRoad is an intelligent pothole detection and reporting system that uses mac
 4. Run the application:
    bash
    python app.py
+```
    
 
 5. Access the application at http://localhost:5000
@@ -99,14 +100,14 @@ FixMyRoad is an intelligent pothole detection and reporting system that uses mac
 
 ## 📁 Project Structure
 
-
+```
 fixmyroad/
 ├── app.py                       # Main application file
 ├── requirements.txt             # Dependencies
 ├── models/                      # ML model files for bridge analysis
 ├── static/                      # Static assets (CSS, JS, images)
 └── templates/                   # HTML templates
-
+```
 
 ## 🤝 Contributing
 
